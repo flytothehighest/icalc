@@ -1,6 +1,6 @@
 
 /**
-*  May 2,2024  by ReducedRadius
+*  May 2,2024  by ReducedRadius,under MIT License.
   used in '/developing/i.html'
 */
 #include <math.h>
